@@ -14,6 +14,14 @@ This repository contains code, to preprocess the seismic input traces and formin
   
 * `merged_filter.py`(subfolder):This notebook contain code for how the individual traces in a cdp are first merged and then filtered .
   
-* `FE.py`: This notebook contain code how the individual traces in cdp are filtered and then merged and different features are formed and correlations is finded.
+* `FE1.py`: This notebook contain code how the individual traces in cdp are filtered and then merged and different features are formed and correlations is find and model is trained .
 
 * `store_data_folder.py`: This notebook contain code how the preprocessed and new features are stored in each cdp separate folder.
+
+## Libraries and Versions
+ * `numpy==1.24.3`
+ * `pandas==2.0.3`
+ * `scipy==1.11.1`
+ * `sklearn==0.0.post7`
+ * `spyder==5.4.3`
+
