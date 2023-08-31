@@ -1,7 +1,7 @@
 
-# Siesmic_traces preprocessing and feature engineering
+# Siesmic_traces preprocessing, feature engineering and model training
 
-This repository contains code, to preprocess the seismic input traces and forming new features.
+This repository contains code, to preprocess the seismic input traces , forming new features and model training.
 
 
 ## Files
