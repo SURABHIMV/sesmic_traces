@@ -14,7 +14,9 @@ This repository contains code, to preprocess the seismic input traces , forming 
   
 * `merged_filter.py`(subfolder):This notebook contain code for how the individual traces in a cdp are first merged and then filtered .
   
-* `FE_model.py`: This notebook contain code how the individual traces in cdp are filtered and then merged and different features are formed and correlations is find and model is trained .
+* `FE_baselinemodel.py`: This notebook contain code how the individual traces in cdp are filtered and then merged and different features are formed and correlations is find and baselinemodel is trained .
+  
+* FE_wavenet.py`: This notebook contain code how the individual traces in cdp are filtered and then merged and different features are formed and correlations is find and Wavenet model is trained .
 
 
 ## Libraries and Versions
